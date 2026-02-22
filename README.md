@@ -42,10 +42,6 @@ With **5+ years of experience** at Cognizant, I specialize in building **scalabl
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
-### CI/CD & Methodologies
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0175C2?style=flat&logo=agile&logoColor=white)
 
 **Design Patterns**: Page Object Model (POM) • BDD • Data-Driven Testing • API Testing
 
@@ -71,18 +67,6 @@ With **5+ years of experience** at Cognizant, I specialize in building **scalabl
 - 📋 Test strategy templates for different project types
 - 🐛 Defect management best practices
 - 📊 Quality metrics and KPI tracking
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Muskaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=radical)
-
-</div>
 
 ---
 
