@@ -75,6 +75,17 @@
 - 📊 Quality metrics & KPI tracking templates
 - 🔺 Test automation pyramid approach
 
+
+🎫 Booking Flow Automation Suite
+
+End-to-end UI automation for event booking & refund journeys — portfolio-ready test architecture
+
+
+🎯 Happy-path & business-rule scenarios (booking, refunds, seat validation)
+🔄 Dynamic test data creation for fully isolated runs
+🔒 Environment-based secrets via .env.example — no hardcoded credentials
+📸 Failure artifacts: screenshots, videos & retry traces captured automatically
+🛠️ Stack: JavaScript · Playwright · Node.js
 ---
 
 ## 📊 GitHub Stats
