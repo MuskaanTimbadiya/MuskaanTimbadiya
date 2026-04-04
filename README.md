@@ -62,7 +62,7 @@
 - 🧠 Agent + Tool layer pattern (ADK-style)
 - 📡 Live CoinGecko API integration for real-time crypto prices
 - 🐳 Dockerised and deployed to cloud
-- 🔗 **Live Demo:** *(add your deployed URL here)*
+- 🔗 **Live Demo:** *https://crypto-agent-843080848499.asia-south1.run.app/?query=ethereumprice*
 - 🛠️ **Stack:** Python · FastAPI · Docker · CoinGecko API · GCP
 
 ---
@@ -80,9 +80,13 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MuskaanTimbadiya&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
+
+> 💡 *Languages reflect public repos — primary work (Java, Selenium) is in enterprise projects.*
+
 
 ---
 
