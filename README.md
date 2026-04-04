@@ -1,120 +1,135 @@
 # Hi, I'm Muskaan Timbadiya 👋
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muskaan-timbadiya/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:muskaantimbadiya98@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/MuskaanTimbadiya?label=Follow&style=social)](https://github.com/MuskaanTimbadiya)
-
-</div>
-
-## 🎯 Senior QA Engineer | Test Automation Architect | Quality Champion
-
-With **5+ years of experience** at Cognizant, I specialize in building **scalable test automation frameworks** and implementing comprehensive QA strategies that reduce defect escape rates and accelerate delivery cycles. I'm passionate about quality, automation, and continuous improvement.
+[![Profile Views](https://komarev.com/ghpvc/?username=MuskaanTimbadiya&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/MuskaanTimbadiya)
 
 ---
 
-## 💼 What I Bring as a QA Lead
+## 🎯 Senior QA Engineer · Test Automation Architect · Quality Champion
 
-- ✅ **Test Strategy & Planning**: End-to-end test strategy development for complex applications
-- 🏗️ **Framework Architecture**: Designed automation frameworks from scratch with scalable design patterns
-- 🤝 **Cross-functional Leadership**: Bridge between Dev, Product, and QA teams in Agile environments
-- 📊 **Quality Metrics**: Defect lifecycle management, root cause analysis, and quality reporting
-- 🚀 **Process Optimization**: Reduced regression testing time through strategic automation
-- 👥 **Mentorship**: Guide junior QAs in automation best practices and coding standards
+> 5+ years at **Cognizant** building scalable automation frameworks, leading QA strategy, and shipping quality software in Agile teams across the retail domain.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 ### Automation & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat&logo=testng&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
+### CI/CD & Reporting
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-brightgreen?style=flat)
+![Extent Reports](https://img.shields.io/badge/Extent_Reports-orange?style=flat)
 
-**Design Patterns**: Page Object Model (POM) • BDD • Data-Driven Testing • API Testing
+**Design Patterns:** Page Object Model (POM) · BDD · Data-Driven Testing · API Testing
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🚀 [Playwright API Automation Framework](https://github.com/MuskaanTimbadiya/Playwright_API)
-> Production-ready API testing framework with environment management and CI/CD integration
+> Production-ready API testing framework with modular architecture, environment management, and CI/CD integration
 
-**Highlights:**
-- ✨ Modular architecture with reusable utilities
-- 🔧 Environment-based configuration (dev, staging, prod)
-- 🎯 RESTful API testing with comprehensive validations
-- 📊 Automated reporting and GitHub Actions integration
+- ✨ Modular structure: `tests/`, `utils/`, `config/`, `data/`
+- 🔧 Environment-based config (dev, staging, prod)
+- 🎯 RESTful API testing — GET, POST, PUT, PATCH, DELETE
+- 📊 GitHub Actions CI/CD pipeline with automated reporting
+- 🛠️ **Stack:** JavaScript · Playwright · Node.js · GitHub Actions
+
+---
+
+### 🤖 [Crypto Agent](https://github.com/MuskaanTimbadiya/crypto-agent)
+> 🏆 Hackathon project — AI agent built with MCP-style tool architecture, deployed on cloud
+
+- 🧠 Agent + Tool layer pattern (ADK-style)
+- 📡 Live CoinGecko API integration for real-time crypto prices
+- 🐳 Dockerised and deployed to cloud
+- 🔗 **Live Demo:** *(add your deployed URL here)*
+- 🛠️ **Stack:** Python · FastAPI · Docker · CoinGecko API · GCP
 
 ---
 
 ### 📚 [QA Test Strategy Playbook](https://github.com/MuskaanTimbadiya/qa-test-strategy-playbook)
-> Comprehensive collection of QA templates, strategies, and best practices
+> Practical collection of QA strategies, risk-based testing models, and governance templates for Agile teams
 
-**Highlights:**
-- 📋 Test strategy templates for different project types
-- 🐛 Defect management best practices
-- 📊 Quality metrics and KPI tracking
+- 📋 Risk-based testing framework with priority matrix
+- ✅ Release readiness checklists
+- 📊 Quality metrics & KPI tracking templates
+- 🔺 Test automation pyramid approach
 
 ---
 
-## 🎯 Professional Impact
+## 📊 GitHub Stats
 
-```diff
-+ Built API automation framework reducing regression time by 80%
-+ Achieved 85%+ test automation coverage for critical workflows
-+ Established quality gates for cross-functional Agile teams
-+ Mentored junior QA engineers in automation frameworks
-+ Led defect triage and root cause analysis sessions
-```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 Professional Impact
+
+| Achievement | Impact |
+|---|---|
+| 🧪 Regression testing strategy | Identified 200+ critical issues, +25% user satisfaction |
+| ⚡ Selenium automation | Reduced testing duration by **30%** |
+| 🎯 UI automation suite | Consistent **80–90% pass rate** |
+| 📦 Test optimisation | Streamlined 900+ cases → 350 focused tests |
+| 🔄 Framework migration | SDT (BDD+Java) → Playwright (JavaScript) |
+| 🔒 Defect management | Achieved **99.9% uptime** |
 
 ---
 
 ## 💡 Currently Working On
 
 - 🔨 Building enterprise-grade test automation frameworks
-- 📚 Expanding QA strategy playbook with real-world examples
-- 🎓 Preparing for QA Lead role transition
-- 🌱 Learning advanced CI/CD practices
+- 🤖 Exploring AI-assisted QA and agentic testing patterns
+- 📚 Expanding the QA Strategy Playbook with real-world examples
+- 🌱 Deepening CI/CD and cloud-native testing knowledge
 
 ---
 
-## 🤝 Let's Connect!
+## 💼 What I Bring as a QA Lead
 
-I'm always interested in collaborating on:
-- 🔧 Test automation framework development
-- 📊 QA strategy and process optimization  
-- 🎯 Quality engineering best practices
-- 👥 Open source testing tools
-
-**Reach out:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/muskaan-timbadiya/)
-- 📧 [Email](mailto:muskaantimbadiya98@gmail.com)
+- ✅ **Test Strategy & Planning** — End-to-end strategy for complex applications
+- 🏗️ **Framework Architecture** — POM, BDD, data-driven patterns from scratch
+- 🤝 **Cross-functional Leadership** — Bridging Dev, Product & QA in Agile
+- 📊 **Quality Metrics** — Defect lifecycle, root cause analysis, KPI dashboards
+- 👥 **Mentorship** — Upskilling junior QAs in automation best practices
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
+
+I'm always open to collaborating on test automation frameworks, QA strategy, and quality engineering best practices.
+
+💼 [LinkedIn](https://www.linkedin.com/in/muskaan-timbadiya/) · 📧 [Email](mailto:muskaantimbadiya98@gmail.com)
+
+---
 
 ### 💭 Testing Philosophy
 
-*"Quality is not an act, it is a habit."* - Aristotle
+> *"Quality is not an act, it is a habit."* — Aristotle
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuskaanTimbadiya&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**⭐ If you find my work helpful, consider giving my repositories a star!**
-
-</div>
+⭐ **If you find my work helpful, consider starring a repo!**
