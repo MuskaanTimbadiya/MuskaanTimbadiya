@@ -85,6 +85,16 @@
 - 📸 Failure artifacts: screenshots, videos & retry traces captured automatically
 - 🛠️ **Stack:** JavaScript · Playwright · Node.js
 
+### 🗳️ [BallotBuddy](https://github.com/MuskaanTimbadiya/BallotBuddy)
+
+>An AI-powered civic assistant designed to simplify the Indian election process for 2026.
+
+- 🧠 Intelligent Guidance: Powered by Google Gemini 1.5 Flash to provide accurate, context-aware answers about voting eligibility and procedures.
+- 🌍 Multilingual Support: Real-time translation support for 5 regional languages (Hindi, Bengali, Tamil, Telugu, and English) to ensure accessibility.
+- ⚡ Production-Ready: Containerized with Docker and deployed on Google Cloud Run for high scalability and low latency.
+- 🔗 Live Demo: https://ballotbuddy-843080848499.asia-south1.run.app/
+- 🛠️ Stack: Node.js · Express · Google Gemini API · Docker · GCP · Vanilla JS/CSS
+
 ---
 
 ## 📊 GitHub Stats
