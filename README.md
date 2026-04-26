@@ -75,6 +75,7 @@
 - 📊 Quality metrics & KPI tracking templates
 - 🔺 Test automation pyramid approach
 
+---
 
 ### 🎫 [Booking Flow Automation Suite](https://github.com/MuskaanTimbadiya/Booking-Flow)
 > End-to-end UI automation for event booking & refund journeys — portfolio-ready test architecture
@@ -84,6 +85,8 @@
 - 🔒 Environment-based secrets via `.env.example` — no hardcoded credentials
 - 📸 Failure artifacts: screenshots, videos & retry traces captured automatically
 - 🛠️ **Stack:** JavaScript · Playwright · Node.js
+
+---
 
 ### 🗳️ [BallotBuddy](https://github.com/MuskaanTimbadiya/BallotBuddy)
 
