@@ -10,7 +10,6 @@
 ## 🎯 Senior QA Engineer · Test Automation Architect · Quality Champion
 
 > 5+ years at **Cognizant** building scalable automation frameworks, leading QA strategy, and shipping quality software in Agile teams across the retail domain.
-
 ---
 
 ## 🛠️ Technical Stack
@@ -150,6 +149,7 @@
 I'm always open to collaborating on test automation frameworks, QA strategy, and quality engineering best practices.
 
 💼 [LinkedIn](https://www.linkedin.com/in/muskaan-timbadiya/) · 📧 [Email](mailto:muskaantimbadiya98@gmail.com)
+· [🌐 Portfolio](https://muskaantimbadiya.github.io/)
 
 ---
 
