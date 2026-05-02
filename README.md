@@ -61,7 +61,7 @@
 - 🧠 Agent + Tool layer pattern (ADK-style)
 - 📡 Live CoinGecko API integration for real-time crypto prices
 - 🐳 Dockerised and deployed to cloud
-- 🔗 **Live Demo:** *https://crypto-agent-843080848499.asia-south1.run.app/?query=ethereumprice*
+- 🔗 **Live Demo:** *https://crypto-agent-843080848499.asia-south1.run.app/*
 - 🛠️ **Stack:** Python · FastAPI · Docker · CoinGecko API · GCP
 
 ---
@@ -86,7 +86,21 @@
 - 🛠️ **Stack:** JavaScript · Playwright · Node.js
 
 ---
+### 🚀 🧠 [NeuraFlow AI ](https://github.com/MuskaanTimbadiya/multi-agent)
 
+>A Multi-Agent AI system that manages tasks, events, and notes using natural language.
+
+🤖 Multi-Agent Orchestration: Features a main "LLM Router" that intelligently delegates user requests to specialized Task, Calendar, or Notes agents.
+
+🔗 MCP-Style Integration: Implements Model Context Protocol patterns to connect agents with local tools and a SQLite database.
+
+📊 Dual Interface: Includes a ChatGPT-style conversational UI and a comprehensive dashboard for tracking productivity metrics and AI insights.
+
+⚡ Multi-Step Workflows: Capable of handling complex queries like "add task study and remind me to call mom" in a single interaction.
+
+🛠️ Stack: Python · FastAPI · Google Gemini API · SQLite · Jinja2 · Docker
+
+---
 ### 🗳️ [BallotBuddy](https://github.com/MuskaanTimbadiya/BallotBuddy)
 
 >An AI-powered civic assistant designed to simplify the Indian election process for 2026.
