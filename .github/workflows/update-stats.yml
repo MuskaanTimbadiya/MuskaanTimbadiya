@@ -1,0 +1,31 @@
+name: Update Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"     # once a day
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch stats cards
+        run: |
+          mkdir -p assets
+          curl -sf "https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=default&title_color=003D7A&icon_color=C41E3A&text_color=333&border_color=003D7A&hide_border=false" -o assets/stats.svg
+          curl -sf "https://github-readme-streak-stats.demolab.com/?user=MuskaanTimbadiya&theme=default&hide_border=false&background=FFFFFF&stroke=003D7A&ring=C41E3A&fire=C41E3A&currStreakLabel=003D7A" -o assets/streak.svg
+          curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=default&title_color=003D7A&text_color=333&border_color=003D7A&hide_border=false&langs_count=8" -o assets/top-langs.svg
+          curl -sf "https://github-profile-trophy.vercel.app/?username=MuskaanTimbadiya&theme=flat&column=4&margin-w=8&margin-h=8&no-frame=true&title=Repositories,Followers,Stars,Commits" -o assets/trophy.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats cards" && git push)

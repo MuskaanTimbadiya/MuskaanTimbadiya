@@ -42,7 +42,8 @@ By day, I design test strategy and automation frameworks that keep retail-scale 
 
 **Automation & Testing**
 <br/>
-<img src="https://skillicons.dev/icons?i=playwright,selenium,java,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=selenium,java,nodejs&theme=light" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=flat-square"/>
@@ -178,17 +179,19 @@ A custom MCP server that automatically repairs broken Playwright locators inside
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=default&title_color=003D7A&icon_color=C41E3A&text_color=333&border_color=003D7A&hide_border=false"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=MuskaanTimbadiya&theme=default&hide_border=false&background=FFFFFF&stroke=003D7A&ring=C41E3A&fire=C41E3A&currStreakLabel=003D7A"/>
+<img height="165" src="assets/stats.svg"/>
+<img height="165" src="assets/streak.svg"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=default&title_color=003D7A&text_color=333&border_color=003D7A&hide_border=false&langs_count=8"/>
+<img src="assets/top-langs.svg"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuskaanTimbadiya&theme=flat&column=4&margin-w=8&margin-h=8&no-frame=true&title=Repositories,Followers,Stars,Commits"/>
+<img src="assets/trophy.svg"/>
 </div>
+
+<sub>Generated once a day by <code>update-stats.yml</code> and committed straight into this repo — no dependency on a live third-party endpoint, so it can't rate-limit or go down on visitors.</sub>
 
 <br/>
 
