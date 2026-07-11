@@ -15,29 +15,28 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch stats cards
-        run: |
-          mkdir -p assets
-          set +e
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&title_color=003D7A&icon_color=C41E3A&text_color=333333&border_color=003D7A&hide_border=false
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          fetch() {
-            url="$1"
-            out="$2"
-            echo "Fetching: $url"
-            code=$(curl -sS -L -A "Mozilla/5.0 (compatible; readme-stats-bot)" \
-              -w "%{http_code}" -o "$out" "$url")
-            echo "  -> HTTP $code, saved to $out ($(wc -c < "$out") bytes)"
-            if [ "$code" -ge 400 ]; then
-              echo "  !! Non-2xx response, first 300 chars of body:"
-              head -c 300 "$out"
-              echo ""
-            fi
-          }
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=default&title_color=003D7A&text_color=333333&border_color=003D7A&hide_border=false&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          fetch "https://github-readme-stats.vercel.app/api?username=MuskaanTimbadiya&show_icons=true&theme=default&title_color=003D7A&icon_color=C41E3A&text_color=333&border_color=003D7A&hide_border=false" assets/stats.svg
-          fetch "https://github-readme-streak-stats.demolab.com/?user=MuskaanTimbadiya&theme=default&hide_border=false&background=FFFFFF&stroke=003D7A&ring=C41E3A&fire=C41E3A&currStreakLabel=003D7A" assets/streak.svg
-          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=MuskaanTimbadiya&layout=compact&theme=default&title_color=003D7A&text_color=333&border_color=003D7A&hide_border=false&langs_count=8" assets/top-langs.svg
-          fetch "https://github-profile-trophy.vercel.app/?username=MuskaanTimbadiya&theme=flat&column=4&margin-w=8&margin-h=8&no-frame=true&title=Repositories,Followers,Stars,Commits" assets/trophy.svg
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&background=FFFFFF&stroke=003D7A&ring=C41E3A&fire=C41E3A&currStreakLabel=003D7A
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |

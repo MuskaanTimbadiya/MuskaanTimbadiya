@@ -187,11 +187,7 @@ A custom MCP server that automatically repairs broken Playwright locators inside
 <img src="assets/top-langs.svg"/>
 </div>
 
-<div align="center">
-<img src="assets/trophy.svg"/>
-</div>
-
-<sub>Generated once a day by <code>update-stats.yml</code> and committed straight into this repo — no dependency on a live third-party endpoint, so it can't rate-limit or go down on visitors.</sub>
+<sub>Generated once a day by <code>update-stats.yml</code> using <a href="https://github.com/stats-organization/github-readme-stats-action">github-readme-stats-action</a> and <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a> — both run inside this repo's own GitHub Action and commit static SVGs, so there's no live third-party endpoint to go down.</sub>
 
 <br/>
 
