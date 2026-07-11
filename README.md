@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003D7A,100:C41E3A&height=220&section=header&text=Muskaan%20Timbadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20QA%20Automation%20Engineer%20%C2%B7%20AI%20Builder%20for%20Bharat&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003D7A,100:C41E3A&height=220&section=header&text=Muskaan%20Timbadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Quality%20Engineer%20%C2%B7%20AI%20Builder%20for%20Bharat&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/MuskaanTimbadiya">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&duration=2800&pause=900&color=003D7A&center=true&vCenter=true&width=680&lines=5%2B+years+shipping+quality+software+at+Cognizant;Building+Playwright+%26+Selenium+frameworks+that+scale;Prototyping+GenAI+agents+for+Indian+users+%F0%9F%87%AE%F0%9F%87%B3;MindMitra+%C2%B7+KitchenSathi+%C2%B7+CrowdIQ+%C2%B7+BallotBuddy;Currently+building+for+FIFA+World+Cup+2026+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&duration=2800&pause=900&color=003D7A&center=true&vCenter=true&width=680&lines=5%2B+years+shipping+quality+software+at+Cognizant;Building+Playwright+%26+Selenium+frameworks+that+scale;Prototyping+GenAI+agents+for+Indian+users+%F0%9F%87%AE%F0%9F%87%B3;MindMitra+%C2%B7+CrowdIQ+%C2%B7+BallotBuddy;Currently+building+for+FIFA+World+Cup+2026+%E2%9A%BD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,11 +23,10 @@
 ```json
 {
   "name": "Muskaan Timbadiya",
-  "day_job": "Senior QA Automation Engineer @ Cognizant",
+  "day_job": "Senior Quality Engineer @ Cognizant",
   "night_job": "Building AI tools with cultural relevance for India",
   "based_in": "Kolkata, India",
   "years_experience": 5,
-  "also_does": "Building Treasurer — because someone has to reconcile the ledger too",
   "philosophy": "Quality is not an act, it is a habit. — Aristotle",
   "currently_exploring": ["Agentic AI", "Multi-agent orchestration", "MCP servers"]
 }
@@ -43,7 +42,7 @@ By day, I design test strategy and automation frameworks that keep retail-scale 
 
 **Automation & Testing**
 <br/>
-<img src="https://skillicons.dev/icons?i=selenium,playwright,java,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=playwright,selenium,java,nodejs&theme=light" />
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=flat-square"/>
@@ -91,22 +90,12 @@ AI mental-wellness companion for NEET, JEE, GATE & UPSC students. Five specialis
 <tr>
 <td width="50%" valign="top">
 
-### 🍲 [KitchenSathi](https://github.com/MuskaanTimbadiya/KitchenSathi)
-AI-powered meal planner and cooking to-do list generator built for Indian households — built at PromptWars Kolkata.
-<br/>
-[**Live demo →**](https://kitchen-sathi.vercel.app) · `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🗳️ [BallotBuddy](https://github.com/MuskaanTimbadiya/BallotBuddy)
 Multilingual AI civic assistant helping Indian citizens navigate the 2026 election process — Hindi, Bengali, Tamil, Telugu & English, deployed on Cloud Run.
 <br/>
 [**Live demo →**](https://ballotbuddy-843080848499.asia-south1.run.app/) · `Node.js` · `Express` · `Gemini`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [NeuraFlow AI (multi-agent)](https://github.com/MuskaanTimbadiya/multi-agent)
@@ -115,12 +104,17 @@ Multi-agent productivity assistant with an LLM router delegating to Task, Calend
 `Python` · `FastAPI` · `SQLite` · `Docker`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Crypto Agent](https://github.com/MuskaanTimbadiya/crypto-agent)
 MCP-style agent + tool architecture serving live CoinGecko price data, containerized and deployed to the cloud.
 <br/>
 [**Live demo →**](https://crypto-agent-843080848499.asia-south1.run.app/) · `Python` · `FastAPI` · `Docker`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -202,9 +196,13 @@ A custom MCP server that automatically repairs broken Playwright locators inside
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/MuskaanTimbadiya/MuskaanTimbadiya/output/github-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuskaanTimbadiya/MuskaanTimbadiya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuskaanTimbadiya/MuskaanTimbadiya/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MuskaanTimbadiya/MuskaanTimbadiya/output/github-snake.svg" width="100%"/>
+</picture>
 
-<sub>Animated from real contribution history — see <code>snake.yml</code> below to enable it on this repo.</sub>
+<sub>Animated from real contribution history via <code>snake.yml</code>.</sub>
 
 </div>
 
