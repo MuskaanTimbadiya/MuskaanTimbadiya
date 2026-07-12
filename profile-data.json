@@ -1,0 +1,184 @@
+{
+  "name": "Muskaan Timbadiya",
+  "headline": "Senior Quality Engineer",
+  "tagline": "AI Builder for Bharat",
+  "location": "Kolkata, India",
+  "yearsExperience": 5,
+  "philosophy": "Quality is not an act, it is a habit. — Aristotle",
+  "links": {
+    "github": "https://github.com/MuskaanTimbadiya",
+    "linkedin": "https://www.linkedin.com/in/muskaan-timbadiya/",
+    "email": "muskaantimbadiya98@gmail.com",
+    "portfolio": "https://muskaantimbadiya.github.io/"
+  },
+  "skills": {
+    "testing": [
+      "Selenium",
+      "Playwright",
+      "Java",
+      "Node.js",
+      "Cucumber",
+      "TestNG",
+      "REST Assured",
+      "Postman"
+    ],
+    "genai": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "GCP",
+      "Google Gemini",
+      "Google ADK",
+      "MCP",
+      "Anthropic Claude"
+    ],
+    "core": [
+      "JavaScript",
+      "React",
+      "Vite",
+      "SQLite",
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "Allure",
+      "JIRA"
+    ]
+  },
+  "genaiProjects": [
+    {
+      "emoji": "⚽",
+      "name": "CrowdIQ",
+      "repo": "https://github.com/MuskaanTimbadiya/CrowdIQ",
+      "demo": "",
+      "desc": "GenAI-enabled solution for **FIFA World Cup 2026** stadium operations — navigation, crowd management, multilingual assistance, and real-time decision support for fans, organizers, volunteers, and venue staff.",
+      "tags": [
+        "TypeScript"
+      ],
+      "note": "in active development"
+    },
+    {
+      "emoji": "🧘",
+      "name": "MindMitra",
+      "repo": "https://github.com/MuskaanTimbadiya/MindMitra",
+      "demo": "https://mind-mitra-olive.vercel.app",
+      "desc": "AI mental-wellness companion for NEET, JEE, GATE & UPSC students. Five specialist agents, a StudentContextMCP server, mood tracking, an Agent Activity Feed, and a Vent Wall — built on Google ADK for a Kaggle AI Agents Hackathon.",
+      "tags": [
+        "JavaScript",
+        "FastAPI",
+        "Gemini 2.5 Flash"
+      ],
+      "note": ""
+    },
+    {
+      "emoji": "🗳️",
+      "name": "BallotBuddy",
+      "repo": "https://github.com/MuskaanTimbadiya/BallotBuddy",
+      "demo": "https://ballotbuddy-843080848499.asia-south1.run.app/",
+      "desc": "Multilingual AI civic assistant helping Indian citizens navigate the 2026 election process — Hindi, Bengali, Tamil, Telugu & English, deployed on Cloud Run.",
+      "tags": [
+        "Node.js",
+        "Express",
+        "Gemini"
+      ],
+      "note": ""
+    },
+    {
+      "emoji": "🧠",
+      "name": "NeuraFlow AI (multi-agent)",
+      "repo": "https://github.com/MuskaanTimbadiya/multi-agent",
+      "demo": "",
+      "desc": "Multi-agent productivity assistant with an LLM router delegating to Task, Calendar & Notes agents, plus a metrics dashboard.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "SQLite",
+        "Docker"
+      ],
+      "note": ""
+    },
+    {
+      "emoji": "🤖",
+      "name": "Crypto Agent",
+      "repo": "https://github.com/MuskaanTimbadiya/crypto-agent",
+      "demo": "https://crypto-agent-843080848499.asia-south1.run.app/",
+      "desc": "MCP-style agent + tool architecture serving live CoinGecko price data, containerized and deployed to the cloud.",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Docker"
+      ],
+      "note": ""
+    }
+  ],
+  "qaProjects": [
+    {
+      "emoji": "🚀",
+      "name": "Playwright API Automation Framework",
+      "repo": "https://github.com/MuskaanTimbadiya/Playwright_API",
+      "desc": "Production-ready API testing framework — modular structure, env-based config, full CRUD coverage, CI/CD reporting.",
+      "tags": [
+        "JavaScript",
+        "Playwright",
+        "GitHub Actions"
+      ],
+      "note": ""
+    },
+    {
+      "emoji": "🎫",
+      "name": "Booking Flow Automation Suite",
+      "repo": "https://github.com/MuskaanTimbadiya/Booking-Flow",
+      "desc": "End-to-end UI automation for booking & refund journeys with dynamic data, isolated runs, and auto-captured failure artifacts.",
+      "tags": [
+        "JavaScript",
+        "Playwright",
+        "Node.js"
+      ],
+      "note": ""
+    },
+    {
+      "emoji": "📚",
+      "name": "QA Test Strategy Playbook",
+      "repo": "https://github.com/MuskaanTimbadiya/qa-test-strategy-playbook",
+      "desc": "Risk-based testing models, release readiness checklists, metrics tracking, and governance templates for Agile teams.",
+      "tags": [],
+      "note": ""
+    },
+    {
+      "emoji": "🩹",
+      "name": "Self-Healing Playwright Suite",
+      "repo": "",
+      "desc": "A custom MCP server that automatically repairs broken Playwright locators inside a CI healing loop, using real Chromium DOM snapshots and semantic locator strategy.",
+      "tags": [],
+      "note": "work in progress — not yet public"
+    }
+  ],
+  "achievements": [
+    {
+      "label": "🧪 Regression testing strategy",
+      "impact": "Identified 200+ critical issues, +25% user satisfaction"
+    },
+    {
+      "label": "⚡ Selenium → Playwright migration",
+      "impact": "Reduced testing duration by **30%**"
+    },
+    {
+      "label": "🎯 UI automation suite",
+      "impact": "Consistent **80–90%** pass rate"
+    },
+    {
+      "label": "📦 Test optimisation",
+      "impact": "Streamlined 900+ cases → 350 focused tests"
+    },
+    {
+      "label": "🔒 Defect management",
+      "impact": "Achieved **99.9%** uptime"
+    }
+  ],
+  "currentlyBuilding": [
+    "⚽ **CrowdIQ** — GenAI stadium-ops assistant for FIFA World Cup 2026",
+    "🧘 Expanding **MindMitra**'s multi-agent architecture post-Kaggle submission",
+    "🏛️ Managing accounts as **Building Treasurer** — with a proper web ledger and Excel exports",
+    "🌱 Deepening agentic AI patterns: MCP servers, multi-agent routing, tool-use design",
+    "🎤 Showing up at Kolkata's builder community — PromptWars, hackathons, demo days"
+  ]
+}
