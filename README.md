@@ -74,9 +74,9 @@ By day, I design test strategy and automation frameworks that keep retail-scale 
 <td width="50%" valign="top">
 
 ### ⚽ [CrowdIQ](https://github.com/MuskaanTimbadiya/CrowdIQ)
-GenAI-enabled solution for **FIFA World Cup 2026** stadium operations — navigation, crowd management, multilingual assistance, and real-time decision support for fans, organizers, volunteers, and venue staff.
+FIFA World Cup 2026™ Stadium Traffic & Fan Guidance AI Platform, a full-stack Event Transport & Crowd Logistics Command Center built with React, Three.js (WebGL), Vite, Express, Tailwind CSS, and the native Google GenAI SDK powered by Gemini 3.5 Flash.
 <br/>
-`TypeScript` · in active development
+`React` · `Three.js` · `Express` · `Gemini 3.5 Flash` · in active development
 
 </td>
 <td width="50%" valign="top">
@@ -209,7 +209,7 @@ A custom MCP server that automatically repairs broken Playwright locators inside
 
 ## 🚧 Currently Building
 
-- ⚽ **CrowdIQ** — GenAI stadium-ops assistant for FIFA World Cup 2026
+- ⚽ **CrowdIQ** — FIFA World Cup 2026™ Stadium Traffic & Fan Guidance AI Platform
 - 🧘 Expanding **MindMitra**'s multi-agent architecture post-Kaggle submission
 - 🏛️ Managing accounts as **Building Treasurer** — with a proper web ledger and Excel exports
 - 🌱 Deepening agentic AI patterns: MCP servers, multi-agent routing, tool-use design
