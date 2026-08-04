@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003D7A,100:C41E3A&height=220&section=header&text=Muskaan%20Timbadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Quality%20Engineer%20%C2%B7%20AI%20Builder%20for%20Bharat&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/MuskaanTimbadiya">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&duration=2800&pause=900&color=003D7A&center=true&vCenter=true&width=680&lines=5%2B+years+shipping+quality+software+at+Cognizant;Building+Playwright+%26+Selenium+frameworks+that+scale;Prototyping+GenAI+agents+for+Indian+users+%F0%9F%87%AE%F0%9F%87%B3;CrowdIQ+%C2%B7+MindMitra+%C2%B7+BallotBuddy+%C2%B7+NeuraFlow+AI+(multi-agent)+%C2%B7+Crypto+Agent;Currently+building+for+FIFA+World+Cup+2026+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=22&duration=2800&pause=900&color=003D7A&center=true&vCenter=true&width=680&lines=5%2B+years+shipping+quality+software+at+Cognizant;Building+Playwright+%26+Selenium+frameworks+that+scale;Prototyping+GenAI+agents+for+Indian+users+%F0%9F%87%AE%F0%9F%87%B3;CrowdIQ+%C2%B7+MindMitra+%C2%B7+BallotBuddy+%C2%B7+Crypto+Agent;Currently+building+for+FIFA+World+Cup+2026+%E2%9A%BD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -99,23 +99,10 @@ Multilingual AI civic assistant helping Indian citizens navigate the 2026 electi
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [NeuraFlow AI (multi-agent)](https://github.com/MuskaanTimbadiya/multi-agent)
-Multi-agent productivity assistant with an LLM router delegating to Task, Calendar & Notes agents, plus a metrics dashboard.
-<br/>
-`Python` · `FastAPI` · `SQLite` · `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 [Crypto Agent](https://github.com/MuskaanTimbadiya/crypto-agent)
 MCP-style agent + tool architecture serving live CoinGecko price data, containerized and deployed to the cloud.
 <br/>
 [**Live demo →**](https://crypto-agent-843080848499.asia-south1.run.app/) · `Python` · `FastAPI` · `Docker`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
