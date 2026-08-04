@@ -86,20 +86,6 @@
       "note": ""
     },
     {
-      "emoji": "🧠",
-      "name": "NeuraFlow AI (multi-agent)",
-      "repo": "https://github.com/MuskaanTimbadiya/multi-agent",
-      "demo": "",
-      "desc": "Multi-agent productivity assistant with an LLM router delegating to Task, Calendar & Notes agents, plus a metrics dashboard.",
-      "tags": [
-        "Python",
-        "FastAPI",
-        "SQLite",
-        "Docker"
-      ],
-      "note": ""
-    },
-    {
       "emoji": "🤖",
       "name": "Crypto Agent",
       "repo": "https://github.com/MuskaanTimbadiya/crypto-agent",
