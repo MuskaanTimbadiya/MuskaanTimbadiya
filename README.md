@@ -26,7 +26,7 @@
   "day_job": "Senior Quality Engineer @ Cognizant",
   "night_job": "Building AI tools with cultural relevance for India",
   "based_in": "Kolkata, India",
-  "years_experience": 5,
+  "years_experience": 6,
   "philosophy": "Quality is not an act, it is a habit. — Aristotle",
   "currently_exploring": ["Agentic AI", "Multi-agent orchestration", "MCP servers"]
 }
