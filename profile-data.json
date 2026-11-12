@@ -34,6 +34,7 @@
     ],
     "core": [
       "JavaScript",
+      "Python",
       "React",
       "Vite",
       "SQLite",
@@ -163,8 +164,6 @@
     }
   ],
   "currentlyBuilding": [
-    "⚽ **CrowdIQ** — FIFA World Cup 2026™ Stadium Traffic & Fan Guidance AI Platform",
-    "🧘 Expanding **MindMitra**'s multi-agent architecture post-Kaggle submission",
     "🏛️ Managing accounts as **Building Treasurer** — with a proper web ledger and Excel exports",
     "🌱 Deepening agentic AI patterns: MCP servers, multi-agent routing, tool-use design",
     "🎤 Showing up at Kolkata's builder community — PromptWars, hackathons, demo days"
