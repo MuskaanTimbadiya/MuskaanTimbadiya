@@ -59,7 +59,7 @@ By day, I design test strategy and automation frameworks that keep retail-scale 
 
 **Languages, CI/CD & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,react,vite,sqlite,git,github,githubactions&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,python,react,vite,sqlite,git,github,githubactions&theme=light" />
 <img src="https://img.shields.io/badge/Allure-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
@@ -196,8 +196,6 @@ A custom MCP server that automatically repairs broken Playwright locators inside
 
 ## 🚧 Currently Building
 
-- ⚽ **CrowdIQ** — FIFA World Cup 2026™ Stadium Traffic & Fan Guidance AI Platform
-- 🧘 Expanding **MindMitra**'s multi-agent architecture post-Kaggle submission
 - 🏛️ Managing accounts as **Building Treasurer** — with a proper web ledger and Excel exports
 - 🌱 Deepening agentic AI patterns: MCP servers, multi-agent routing, tool-use design
 - 🎤 Showing up at Kolkata's builder community — PromptWars, hackathons, demo days
