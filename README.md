@@ -76,7 +76,7 @@ By day, I design test strategy and automation frameworks that keep retail-scale 
 ### ⚽ [CrowdIQ](https://github.com/MuskaanTimbadiya/CrowdIQ)
 FIFA World Cup 2026™ Stadium Traffic & Fan Guidance AI Platform, a full-stack Event Transport & Crowd Logistics Command Center built with React, Three.js (WebGL), Vite, Express, Tailwind CSS, and the native Google GenAI SDK powered by Gemini 3.5 Flash.
 <br/>
-`React` · `Three.js` · `Express` · `Gemini 3.5 Flash` · in active development
+[**Live demo →**](https://crowd-iq-sigma.vercel.app/) · `React` · `Three.js` · `Express` · `Gemini 3.5 Flash` · in active development
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ Multilingual AI civic assistant helping Indian citizens navigate the 2026 electi
 ### 🤖 [Crypto Agent](https://github.com/MuskaanTimbadiya/crypto-agent)
 MCP-style agent + tool architecture serving live CoinGecko price data, containerized and deployed to the cloud.
 <br/>
-[**Live demo →**](https://crypto-agent-843080848499.asia-south1.run.app/) · `Python` · `FastAPI` · `Docker`
+`Python` · `FastAPI` · `Docker`
 
 </td>
 </tr>
