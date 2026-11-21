@@ -4,13 +4,11 @@
 
 ![Toolkit: languages, test automation, GenAI and agentic AI, build and cloud, collaboration, testing types, reporting and monitoring.](assets/toolkit.svg?v=1)
 
-## Projects
+![Projects: E-Commerce-E2E-Automation-Framework, DearMe and MindMitra.](assets/projects.svg?v=1)
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **E-Commerce-E2E-Automation-Framework** | A production-style automation framework for an e-commerce app. | [Repo](https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework) |
-| **DearMe** | A full-stack mindfulness journaling app built with React, TypeScript, Express, Firestore and Gemini. | [Repo](https://github.com/MuskaanTimbadiya/dearme) · [Live](https://dearme.ai.studio/) |
-| **MindMitra** | An AI wellness companion for Indian exam aspirants, with multi-agent diagnosis and MCP-backed persistence. | [Repo](https://github.com/MuskaanTimbadiya/MindMitra) |
+- [E-Commerce-E2E-Automation-Framework](https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework)
+- [DearMe](https://github.com/MuskaanTimbadiya/dearme) · [Live demo](https://dearme.ai.studio/)
+- [MindMitra](https://github.com/MuskaanTimbadiya/MindMitra)
 
 ![Collectible card: Muskaan Timbadiya, Senior Quality Engineer. Fun facts: dancing and reading are my two favourite escapes; I test retail-scale software by day and explore new tech by night; currently lost in The Palace of Illusions.](assets/card.svg?v=1)
 
