@@ -2,8 +2,10 @@
   "name": "Muskaan Timbadiya",
   "headline": "Senior Quality Engineer",
   "tagline": "AI Builder for Bharat",
+  "company": "Cognizant Technology Solutions",
   "location": "Kolkata, India",
   "yearsExperience": 6,
+  "assetVersion": "1",
   "philosophy": "Quality is not an act, it is a habit. — Aristotle",
   "links": {
     "github": "https://github.com/MuskaanTimbadiya",
@@ -11,6 +13,31 @@
     "email": "muskaantimbadiya98@gmail.com",
     "portfolio": "https://muskaantimbadiya.github.io/"
   },
+  "rightNow": [
+    "building an agentic version of my Playwright automation framework",
+    "learning agentic AI patterns",
+    "reading The Palace of Illusions"
+  ],
+  "funFacts": [
+    "dancing and reading are my two favourite escapes",
+    "I test retail-scale software by day and explore new tech by night",
+    "currently lost in The Palace of Illusions"
+  ],
+  "featuredProjects": [
+    {
+      "name": "E-Commerce-E2E-Automation-Framework",
+      "repo": "https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework"
+    },
+    {
+      "name": "DearMe",
+      "repo": "https://github.com/MuskaanTimbadiya/dearme",
+      "demo": "https://dearme.ai.studio/"
+    },
+    {
+      "name": "MindMitra",
+      "repo": "https://github.com/MuskaanTimbadiya/MindMitra"
+    }
+  ],
   "skills": {
     "testing": [
       "Selenium",
