@@ -6,10 +6,10 @@
 
 ![Projects: {{FEATURED_PROJECTS_NAMES}}.](assets/projects.svg?v={{ASSET_VERSION}})
 
-{{FEATURED_PROJECTS_LIST}}
+{{FEATURED_PROJECTS_BADGES}}
 
 ![Collectible card: {{NAME}}, {{HEADLINE}}. Fun facts: {{FUN_FACTS}}.](assets/card.svg?v={{ASSET_VERSION}})
 
 ![Say hi: my illustrated portrait waving hello, with LinkedIn, portfolio and email.](assets/say-hi.svg?v={{ASSET_VERSION}})
 
-**LinkedIn:** [{{LINKEDIN_DISPLAY}}]({{LINKEDIN_URL}}) · **Portfolio:** [{{PORTFOLIO_DISPLAY}}]({{PORTFOLIO_URL}}) · **Email:** [{{EMAIL}}](mailto:{{EMAIL}})
+{{CONTACT_BADGES}}

@@ -6,12 +6,27 @@
 
 ![Projects: E-Commerce-E2E-Automation-Framework, DearMe and MindMitra.](assets/projects.svg?v=1)
 
-- [E-Commerce-E2E-Automation-Framework](https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework)
-- [DearMe](https://github.com/MuskaanTimbadiya/dearme) · [Live demo](https://dearme.ai.studio/)
-- [MindMitra](https://github.com/MuskaanTimbadiya/MindMitra)
+<div align="center">
+
+[![E-Commerce-E2E-Automation-Framework](https://img.shields.io/badge/E--Commerce_Framework-Repository-247bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework)
+&nbsp;&nbsp;
+[![DearMe](https://img.shields.io/badge/DearMe-Repository-ff354f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskaanTimbadiya/dearme)
+[![DearMe Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-247bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dearme.ai.studio/)
+&nbsp;&nbsp;
+[![MindMitra](https://img.shields.io/badge/MindMitra-Repository-247bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuskaanTimbadiya/MindMitra)
+
+</div>
 
 ![Collectible card: Muskaan Timbadiya, Senior Quality Engineer. Fun facts: dancing and reading are my two favourite escapes; I test retail-scale software by day and explore new tech by night; currently lost in The Palace of Illusions.](assets/card.svg?v=1)
 
 ![Say hi: my illustrated portrait waving hello, with LinkedIn, portfolio and email.](assets/say-hi.svg?v=1)
 
-**LinkedIn:** [linkedin.com/in/muskaan-timbadiya](https://www.linkedin.com/in/muskaan-timbadiya/) · **Portfolio:** [muskaantimbadiya.github.io](https://muskaantimbadiya.github.io/) · **Email:** [muskaantimbadiya98@gmail.com](mailto:muskaantimbadiya98@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-247bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskaan-timbadiya/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff354f?style=for-the-badge&logo=globe&logoColor=white)](https://muskaantimbadiya.github.io/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hi-247bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskaantimbadiya98@gmail.com)
+
+</div>

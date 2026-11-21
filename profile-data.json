@@ -26,15 +26,18 @@
   "featuredProjects": [
     {
       "name": "E-Commerce-E2E-Automation-Framework",
+      "shortName": "E-Commerce Framework",
       "repo": "https://github.com/MuskaanTimbadiya/E-Commerce-E2E-Automation-Framework"
     },
     {
       "name": "DearMe",
+      "shortName": "DearMe",
       "repo": "https://github.com/MuskaanTimbadiya/dearme",
       "demo": "https://dearme.ai.studio/"
     },
     {
       "name": "MindMitra",
+      "shortName": "MindMitra",
       "repo": "https://github.com/MuskaanTimbadiya/MindMitra"
     }
   ],
